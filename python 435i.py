@@ -39,6 +39,7 @@ try:
             break
 except:
     print("Error")
+    print("git v2 test")
 
 finally:
     pipeline.stop()
